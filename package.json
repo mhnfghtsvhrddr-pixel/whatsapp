@@ -1,1 +1,14 @@
-{\n \"name\": \"whatsapp-agent\",\n \"version\": \"1.0.0\",\n \"main\": \"index.js\",\n \"scripts\": {\n \"start\": \"node index.js\"\n },\n \"dependencies\": {\n \"@anthropic-ai/sdk\": \"^0.32.0\",\n \"body-parser\": \"^1.20.2\",\n \"express\": \"^4.19.2\",\n \"twilio\": \"^5.3.0\"\n }\n}
+{
+  "name": "whatsapp-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "twilio": "^5.3.0"
+  }
+}
